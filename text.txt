@@ -4,4 +4,7 @@ Feature first commit
 Master conflict commit
 Conflict branch edit
 Master code..
-More master code
+More master codeMaster code...
+New branch code
+More code
+More..
