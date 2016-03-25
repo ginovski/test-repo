@@ -3,3 +3,4 @@ Second commit
 Feature first commit
 Master conflict commit
 Conflict branch edit
+Master code...
